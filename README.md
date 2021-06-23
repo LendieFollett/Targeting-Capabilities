@@ -1,4 +1,4 @@
-# Targeting-Social-Safety-Net-Programs-on-Human-Capabilities
+# Targeting-Capabilities
 Depends on package CBART, which can be installed from binary with code:
 
 library(devtools);
