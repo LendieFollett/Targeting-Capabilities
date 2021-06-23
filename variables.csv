@@ -1,0 +1,64 @@
+Variable Name,Variable Definition,Variable Definition2,category
+hhid,Household identifier,HH identifier,x
+province,Province code,Province code,x
+district,District code,District code,x
+subdistrict,Subdistrict code,Subdistrict code,x
+village,Village code,Village code,x
+ea,Enumeration area,Enumeration area,x
+pmt,PMT treatment,PMT treatment,x
+community,Community treatment,Community treatment,x
+hybrid,Hybrid treatment,Hybrid treatment,x
+elite,Elite subtreatment,Elite subtreatment,x
+poorest10,10 poorest subtreatment,10 poorest subtreatment,x
+daymeeting,Day meeting subtreatment,Day meeting subtreatment,x
+treated,Household received cash,HH received cash,x
+rank,Percentile rank in subvillage,Percentile rank in subvillage,x
+consumption,Per capita consumption (in thousand Rp),Per capita consumption,x
+pcfloor,Household floor area per capita,Floor area,Dwelling
+tfloor,Not earth floor,Floor type,Dwelling
+twall,Brick or cement wall,Wall type,Dwelling
+toilet,Private toilet,Private toilet,Dwelling
+water,Clean drinking water,Drinking water,Dwelling
+lighting,PLN electricity,Electricity,Dwelling
+troof,Concrete or corrugated roof,Roof type,Dwelling
+fcook,Cooks with firewood,Cooking fuel,Dwelling
+house,Owns house privately,Home ownership,Finance
+credit,Has received credit,Credit access,Finance
+hhsize,Household size,Household size,HH Characteristic
+hhsize2,Household size squared,HH size squared,x
+hhage,Age of head of household,Head age,HH Characteristic
+hhage2,Age of head of household squared,Age of head of HH squared,x
+hhmale,Head of household is male,Male head,HH Characteristic
+hhmarried,Head of household is married,Married head,HH Characteristic
+hhmalemarr,Head of household is male and married,Head of HH is male and married,HH Characteristic
+hhsector1,Head of household works in agriculture sector,Agricultural sector,Employment
+hhsector2,Head of household works in industry sector,Industrial sectory,Employment
+hhsector3,Head of household works in service sector,Service sector,Employment
+formal,Head of household works in formal sector,Formal sector,Employment
+informal,Head of household works in informal sector,Informal sector,Employment
+hheduc2,Education attainment of HH head is elementary school,Elementary school,Education
+hheduc3,Education attainment of HH head is junior school,Junior high school,Education
+hheduc4,Education attainment of HH head is senior high school or higher,Senior high school,Education
+age04,Number of children 0-4,Children aged 0-4,HH Characteristic
+eschild,Number of children in elementary school,Children in elementary,HH Characteristic
+jschild,Number of children in junior high school,Children in junior high,HH Characteristic
+sschild,Number of children in senior high school,Children in senior high,HH Characteristic
+higheduc2,Highest education attainment within HH is elementary school,Highest education is elementary,Education
+higheduc3,Highest education attainment within HH is junior school,Highest education is junior high,Education
+higheduc4,Highest education attainment within HH is senior high or higher,Highest education is senior high,Education
+depratio,Total dependency ratio,Dependency ratio,HH Characteristic
+ac,AC,Air conditioning,Dwelling
+computer,Computer,Owns computer,Assets
+radio,Radio/cassette player,Owns radio,Assets
+tv,TV,Owns TV,Assets
+dvd,DVD player,Owns DVD,Assets
+satellite,Satellite dish,Owns satellite,Assets
+gas,Gas burner,Owns gas stove,Assets
+refrigerator,Refrigerator,Owns refrigerator,Assets
+bicycle,Bicycle,Owns bicycle,Assets
+motorcycle,Motorcycle,Owns motorcycle,Assets
+auto,Car/minibus/truck,Owns auto,Assets
+hp,HP,Owns phone,Assets
+jewelry,Jewelry,Owns jewelru,Assets
+chicken,Chicken,Owns chicken,Assets
+cow,Caribou/cow,Owns cows,Assets
