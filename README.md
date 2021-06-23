@@ -1,8 +1,8 @@
 # Targeting-Social-Safety-Net-Programs-on-Human-Capabilities
 Depends on package CBART, which can be installed from binary with code:
 
-library(devtools)
-install_github("LendieFollett/CBART")
+library(devtools);
+install_github("LendieFollett/CBART");
 library(CBART)
 
 ## General
